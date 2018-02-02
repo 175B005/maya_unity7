@@ -1,8 +1,9 @@
 # maya_unity7
-maya unity 連携機能７（髪の毛編）
+maya unity 連携機能７（リグ作成編）
 
 
 1. 
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction8-3.jpg)
 1. 
 1. 
 1. 
