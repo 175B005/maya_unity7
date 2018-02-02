@@ -19,7 +19,7 @@ maya unity 連携機能７（リグ作成編）
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction11-3.jpg)  
 親ジョイント：　親子関係を作る。（子→親の順に選択し、その子供に入れる。）  
 ジョイントの接続：　親子関係があるものに対し、その子供と同じ位置関係の兄弟にする。  
-![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionj1.jpg)  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionj.jpg)  
 1. 
 1. 
 1. 
