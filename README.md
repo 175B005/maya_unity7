@@ -11,9 +11,14 @@ maya unity 連携機能７（リグ作成編）
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction8-3.jpg)
 1. 同じ手順で足の接合部ガイドも作る。(わかりやすいようにジョイントにも名前をつけました。)  
 ![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction9-3.jpg)
-1. 
-1. 
-1. 
+1. 同じように、、  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction10-3.jpg)
+1. 関係を作ります。///
+1. 子供にしたいジョイントを選択　→　親にしたいジョイントをShift押しながら選択（複数選択）
+1. 上部メニュー< スケルトン< ジョイントの接続<　□オプション　→　親ジョイント  →　接続  
+![](https://raw.githubusercontent.com/175B005/maya_unity3/master/direction11-3.jpg)  
+親ジョイント：　親子関係を作る。（子→親の順に選択し、その子供に入れる。）![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionj1.jpg)  
+ジョイントの接続：　親子関係があるものに対し、その子供と同じ位置関係の兄弟にする。![](https://raw.githubusercontent.com/175B005/maya_unity3/master/directionj2.jpg)      
 1. 
 1. 
 1. 
